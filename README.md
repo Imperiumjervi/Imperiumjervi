@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imperiumjervi
 - 👀 I’m interested in program for my professional career
-- 🌱 I’m currently learning C,C++ and Python
+- 🌱 I’m currently learning C,C++, JavaScript and Python
 - 💞️ I’m looking to collaborate with my friends
 - 📫 How to reach me ...
 - 😄 Pronouns: Imperiumjsrv
